@@ -47,15 +47,15 @@ export default function Home() {
 
         <Card>
           <CardHeader>
-            <CardTitle>Customize</CardTitle>
+            <CardTitle>A2UI + AG-UI prototype</CardTitle>
             <CardDescription>
-              Make it your own
+              Chat-led canvas with just-in-time UI generation
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <p className="text-sm text-muted-foreground">
-              Edit the files in the <code className="text-xs">app</code> directory to get started.
-            </p>
+            <Button variant="default" className="w-full" asChild>
+              <Link href="/prototype">Open prototype</Link>
+            </Button>
           </CardContent>
         </Card>
       </div>
