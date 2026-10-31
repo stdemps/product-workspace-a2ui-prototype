@@ -19,7 +19,7 @@ Use these commands to improve existing UI code. Reference `@teach-impeccable` on
 | `@audit` | Comprehensive quality check (a11y, perf, responsive) | Before shipping, after major changes |
 | `@critique` | UX design review (hierarchy, clarity) | Early design feedback |
 | `@polish` | Final refinement pass | Right before release |
-| `@simplify` | Remove unnecessary complexity | When UI feels cluttered |
+| `@simplify-design` | Remove unnecessary complexity | When UI feels cluttered |
 | `@normalize` | Align with design system | Inconsistent styling |
 | `@optimize` | Performance improvements | Slow interactions |
 | `@harden` | Error handling, edge cases | Production readiness |
